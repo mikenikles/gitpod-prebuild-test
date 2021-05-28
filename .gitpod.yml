@@ -4,3 +4,4 @@ tasks:
 github:
   prebuilds:
     addComment: true
+    addLabel: prebuilt-in-gitpod-or-any-other-label
