@@ -1,5 +1,5 @@
 tasks:
-  - prebuild: sleep 120
+  - prebuild: sleep 30
 
 github:
   prebuilds:
