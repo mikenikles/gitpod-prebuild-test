@@ -1,0 +1,6 @@
+tasks:
+  - prebuild: sleep 120
+
+github:
+  prebuilds:
+    addComment: true
