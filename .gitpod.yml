@@ -1,0 +1,7 @@
+tasks:
+  - prebuild: sleep 15
+
+github:
+  prebuilds:
+    addComment: true
+    addLabel: prebuilt-in-gitpod-or-any-other-label
